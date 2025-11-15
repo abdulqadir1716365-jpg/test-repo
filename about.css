@@ -1,0 +1,29 @@
+h1{
+  font-family: "Playwrite HU", cursive;text-decoration: underline;text-decoration: overline;
+  font-size: 72px;
+  background: -webkit-linear-gradient(#882020, #b90a0a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+
+.pera1::first-letter{color: rgb(168, 90, 16);
+  font-size: 50px;
+  font-weight: bold;
+  float: left; /* Makes text wrap around the large letter */
+  line-height: 40px; /* Adjust line height for better vertical alignment */
+  padding-right: 8px; /* Adds some space between the letter and the rest of the text */
+
+
+
+  text-transform: capitalize;
+}
+
+
+.pera1::first-letter{color: rgb(168, 90, 16);
+  font-size: 50px;
+  font-weight: bold;
+  float: left; /* Makes text wrap around the large letter */
+  line-height: 40px; /* Adjust line height for better vertical alignment */
+  padding-right: 8px; /* Adds some space between the letter and the rest of the text */
